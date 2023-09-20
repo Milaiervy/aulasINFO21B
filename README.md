@@ -26,6 +26,24 @@ EX: ![descrição](url_imagem)
 EX:[Descrição](URL DO LINK)
 [Site do IFC](https://ifc.edu.br/)
 
+Tabela:
+Número|Nome|Nota
+--|--|--
+1|Tiago|4,0
+2|Milla|10   	
+
+Código:
+Exemplo de como colocar um coomando no meio do texto: `System.out.println()`
+
+
+Códigos maiores: 
+```
+System.out.println();
+if(a==2){
+  System.out.println()
+}
+```
+Citar pessoas @claraacv
 
 
 
